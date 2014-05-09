@@ -1,9 +1,6 @@
 {
 	"name": "rave-curl-json",
 	"version": "0.1.0",
-	"authors": [
-		"John Hann (http://unscriptable.com)"
-	],
 	"description": "Adds curl's json AMD plugin to RaveJS.",
 	"main": "rave.js",
 	"dependencies": {
